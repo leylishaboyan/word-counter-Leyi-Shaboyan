@@ -7,7 +7,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
 
 html {
@@ -16,6 +15,7 @@ html {
 
 body {
     background-image: url(https://cutewallpaper.org/21/office-background-wallpaper/business-office-background-images-Magdalene-project.org.jpg);
+     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
 
 .container {
